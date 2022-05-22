@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    background-color: $bgColor;
+       
+}
+
+.flex-item-li{
+    width: 100px;
+    margin:  10px;
+    background-color: $bgColor;
+    flex-wrap: nowrap;
+    
+}

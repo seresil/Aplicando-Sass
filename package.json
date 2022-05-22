@@ -1,0 +1,11 @@
+{
+  "name": "proyectoseresis---copia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass sass/style.scss css/estilos.css -w --no-source-map -s compressed"
+  },
+  "author": "",
+  "license": "ISC"
+}
